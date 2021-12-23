@@ -1,0 +1,7 @@
+[options]
+addons_path = /home/odoousr/enterprise,
+	/home/odoousr/odoo-repo/addons,
+	/home/odoousr/openacademy-repo
+db_name = odoodb
+dbfilter = odoodb
+
